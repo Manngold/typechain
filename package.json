@@ -1,0 +1,14 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "practice typescript",
+  "main": "index.js",
+  "repository": "https://github.com/Manngold/typechain.git",
+  "author": "Manngold <36980767+Manngold@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
+

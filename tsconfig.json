@@ -1,0 +1,10 @@
+{
+    //this is compiler option, how to compile
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "ES2015",
+        "sourceMap": true
+    },
+    "include": ["index.ts"],//what is compile file
+    "exclude": ["node_modules"]//what is exclude file
+}
